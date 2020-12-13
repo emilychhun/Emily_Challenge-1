@@ -1,0 +1,306 @@
+/* ==========LAYOUT SECTION ==========*/
+
+
+
+
+body
+{ 
+ background-color: #9c9f84;    
+ margin: 0px;
+ font-family: Verdana, Georgia, serif;
+ font-size: 14px;
+}
+
+/*-----#main-
+{ 
+ background-color: blueviolet;    
+ margin: 10px;
+ height: 90px;
+ border-radius: 5px;
+ padding: 20px;
+ font-size: 110%
+}
+---*/
+h1 
+{
+   font-size: 120%;
+   color: white; 
+}
+h2 
+{
+   font-size: 100%;
+   color: white; 
+}
+
+h3 
+{
+   color: white;
+}
+   
+h6 
+{
+   color: white; 
+}
+
+
+#navbar ul
+ {
+   padding: 5px;
+   list-style-type: none;
+   background-color: blueviolet;
+   margin: 10px;
+   border-radius: 5px;
+   height: 80px;
+ }
+ #navbar ul li
+ {
+display: inline-block;
+float: right;
+margin-right: 10px;
+margin-top: 20px;
+
+ }
+
+#navbar ul li a
+{
+padding: 15px 10px;
+letter-spacing: 2px;
+border-radius: 5px;
+color: white;
+}
+
+#navbar ul li a:hover
+{
+   background-color: blue;
+}
+
+label.logo
+{
+color: white;
+font-size: 50px;
+line-height: 80px;
+padding: 0 30px;
+font-weight: bold;
+}
+
+
+
+
+
+/*--.main-picture--*/
+{   
+ width: 1400px;
+ height: 500px;
+ border-radius: 5px;
+ background-image: url(assets/digital-marketing.jpg);
+ background-size: 100%;
+ border-radius: 5px;
+ margin: 10px;
+}
+
+.search
+ {
+   padding: 5px;
+   list-style-type: none;
+   background-color: blueviolet;
+   margin: 10px;
+   border-radius: 5px;
+   height: 210px;
+   margin-left: 10px;
+   margin-right: 320px;
+   border-radius: 5px;
+   padding: 20px;
+   font-size: 100%
+ }
+ 
+#search2 a
+ {
+ color: white;
+ font-size: 25px;
+ line-height: 20px;
+ padding: 0 0px;
+ font-weight: bold;
+ margin-left: 50px;
+ margin-top: 0px;
+ font-display: ;
+ border-radius: 5px;
+ } 
+ #search2 a:hover
+ {
+    background-color: blue;
+
+ }
+
+ /*--#search3
+ {
+ color: white;
+ font-size: 15px;
+ line-height: 20px;
+ padding: 0 0px;
+ font-weight: bold;
+ margin-left: 375px;
+ margin-top: 0px;
+ }--*/
+
+/* .engine
+ {   
+  width: 350px;
+  height: 250px;
+  border-radius: 5px;
+  background-image: url(assets/search-engine.jpg);
+  background-size: 100%;
+  margin: 10px; font-weight: bold;
+  margin-left: 375px;
+ } */
+ 
+
+/*.search 
+{
+   background-color: blueviolet;    
+   margin-left: 10px;
+   margin-right: 320px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   border-radius: 5px;
+   padding: 20px;
+   font-size: 110%;
+   height: 250px;
+   object-fit: contain;
+}*/
+
+
+
+
+
+
+.online
+{
+   padding: 5px;
+   list-style-type: none;
+   background-color: blueviolet;
+   margin: 10px;
+   border-radius: 5px;
+   height: 180px;
+   margin-left: 10px;
+   margin-right: 320px;
+   border-radius: 5px;
+   padding: 20px;
+   font-size: 100%;
+}
+
+#online2 a
+ {
+ color: white;
+ font-size: 25px;
+ line-height: 20px;
+ padding: 0 0px;
+ font-weight: bold;
+ margin-left: 10px;
+ margin-top: 0px;
+ font-display: ;
+ border-radius: 5px;
+ } 
+
+ #online2 a:hover
+ {
+    background-color: blue;
+
+ }
+
+
+ /*---#online3----*/
+ {
+ color: white;
+ font-size: 15px;
+ line-height: 20px;
+ padding: 0 0px;
+ font-weight: bold;
+ margin-left: 10px;
+ margin-top: 0px;
+ } 
+
+ .social 
+ {
+   padding: 5px;
+   list-style-type: none;
+   background-color: blueviolet;
+   margin: 10px;
+   border-radius: 5px;
+   height: 200px;
+   margin-left: 10px;
+   margin-right: 320px;
+   border-radius: 5px;
+   padding: 20px;
+   font-size: 100%;
+ }
+ 
+#social2 a
+ {
+ color: white;
+ font-size: 25px;
+ line-height: 20px;
+ padding: 0 0px;
+ font-weight: bold;
+ margin-left: 75px;
+ margin-top: 0px;
+ font-display: ;
+ border-radius: 5px;
+ }
+
+ #social2 a:hover
+ {
+    background-color: blue;
+
+ }
+
+
+  
+
+
+.sub1
+{
+   background-color: blueviolet;    
+   margin-left: 10px;
+   margin-right: 10px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+   border-radius: 5px;
+   padding: 20px;
+   font-size: 120%;
+   float: right;
+   width: 260px;
+   height: 690px;
+}
+
+#notes
+{
+   font-size: 9px;
+}
+
+#name
+{
+text-align: center;
+   
+}
+
+
+
+
+
+
+/* ==========LAYOUT SECTION ==========*/
+
+
+
+
+
+
+  
+
+
+
+
+ 
+
+
+ 
