@@ -83,11 +83,24 @@ padding: 0 30px;
 font-weight: bold;
 }
 
+.main-picture
+{
+   border-radius: 5px; 
+   margin-right: 10px; 
+   margin-left: 10px; 
+   border: solid black 1p;
+   padding: 2px;
+
+}
 
 
 
 
-/*--.main-picture--*/
+
+
+
+
+/*--.main-picture
 {   
  width: 1400px;
  height: 500px;
@@ -97,39 +110,61 @@ font-weight: bold;
  border-radius: 5px;
  margin: 10px;
 }
-
+--*/
 .search
  {
-   padding: 5px;
+   padding: 0px;
    list-style-type: none;
    background-color: blueviolet;
-   margin: 10px;
+   margin: 0px;
    border-radius: 5px;
-   height: 210px;
+   height: 240px;
    margin-left: 10px;
    margin-right: 320px;
    border-radius: 5px;
-   padding: 20px;
    font-size: 100%
  }
+
+
+#search2
+
+{
+margin-left: 400px;
+margin-top: 10px;
+font-size: 25px;
+
+}
+#search2 a:hover
+{
+   background-color: blue;
+}
+
+
+
+#test2
+{
+   margin-left: 400px;
+}
  
 #search2 a
  {
  color: white;
- font-size: 25px;
- line-height: 20px;
- padding: 0 0px;
+ line-height: 5px;
  font-weight: bold;
- margin-left: 50px;
- margin-top: 0px;
  font-display: ;
  border-radius: 5px;
  } 
- #search2 a:hover
- {
-    background-color: blue;
-
- }
+ 
+#picture2
+{
+   float: left;
+   margin-left: 20px;
+   margin-top: 20px;
+   margin-right: 20px;
+   border: solid black 1p; 
+   padding: 2px
+   
+}
 
  /*--#search3
  {
@@ -169,46 +204,85 @@ font-weight: bold;
 }*/
 
 
-
-
-
-
 .online
 {
-   padding: 5px;
+   padding: 0px;
    list-style-type: none;
    background-color: blueviolet;
-   margin: 10px;
    border-radius: 5px;
-   height: 180px;
+   height: 240px;
    margin-left: 10px;
    margin-right: 320px;
    border-radius: 5px;
-   padding: 20px;
    font-size: 100%;
+   margin-top: 10px;
 }
 
+#online2
+{
+margin-left: 20px;
+margin-top: 10px;
+font-size: 25px;
+}
+
+
+
+#online2 a:hover
+{
+   background-color: blue;
+
+}
+
+#test3
+{
+margin-right: 10px;
+margin-left: 20px;
+}
+
+
+
 #online2 a
- {
- color: white;
- font-size: 25px;
- line-height: 20px;
- padding: 0 0px;
- font-weight: bold;
- margin-left: 10px;
- margin-top: 0px;
- font-display: ;
- border-radius: 5px;
+{
+
+   color: white;
+   line-height: 5px;
+   font-weight: bold;
+   font-display: ;
+   border-radius: 5px;
  } 
 
- #online2 a:hover
+
+
+ 
+#picture3
+{
+   float: right;
+   margin-top: 20px;
+   margin-right: 20px;
+   border: solid black 1p; 
+   padding: 2px;
+
+}
+
+
+
+
+
+
+
+
+/*--#picture3
  {
-    background-color: blue;
+  float: left; 
+  margin-left: 10px;
+  margin-bottom: 20px; 
+  margin-right: 10px;
+  margin-top: 20px; 
+  border: solid black 1p;
+  padding: 2px;
+ }--*/
 
- }
-
-
- /*---#online3----*/
+ /*---#online3
  {
  color: white;
  font-size: 15px;
@@ -217,41 +291,65 @@ font-weight: bold;
  font-weight: bold;
  margin-left: 10px;
  margin-top: 0px;
- } 
+ } --*/
 
  .social 
  {
-   padding: 5px;
-   list-style-type: none;
-   background-color: blueviolet;
-   margin: 10px;
-   border-radius: 5px;
-   height: 200px;
-   margin-left: 10px;
-   margin-right: 320px;
-   border-radius: 5px;
-   padding: 20px;
-   font-size: 100%;
- }
- 
-#social2 a
- {
- color: white;
- font-size: 25px;
- line-height: 20px;
- padding: 0 0px;
- font-weight: bold;
- margin-left: 75px;
- margin-top: 0px;
- font-display: ;
- border-radius: 5px;
- }
+
+      padding: 0px;
+      list-style-type: none;
+      background-color: blueviolet;
+      border-radius: 5px;
+      height: 230px;
+      margin-left: 10px;
+      margin-right: 320px;
+      border-radius: 5px;
+      font-size: 100%;
+      margin-top: 10px;
+   }
+
+#social2
+
+{
+   margin-left: 400px;
+   margin-top: 10px;
+   font-size: 25px;
+   
+}
+
+
 
  #social2 a:hover
  {
     background-color: blue;
 
  }
+
+ #test4
+ {
+    margin-left: 400px;
+ }
+ #social2 a
+ {
+ color: white;
+ line-height: 5px;
+ font-weight: bold;
+ font-display: ;
+ border-radius: 5px;
+ } 
+
+
+
+ #picture4
+{
+   float: left;
+   margin-left: 20px;
+   margin-top: 20px;
+   margin-right: 20px;
+   border: solid black 1p; 
+   padding: 2px;
+   
+}
 
 
   
@@ -270,6 +368,36 @@ font-weight: bold;
    float: right;
    width: 260px;
    height: 690px;
+}
+
+#subpicture1
+{
+ margin-left: 10px; 
+ margin-bottom: 10px;
+  margin-right: 10px; 
+  margin-top: 10px;
+border: solid black 1p; 
+padding: 2px;
+}
+#subpicture2
+{
+ margin-left: 10px; 
+ margin-bottom: 10px;
+  margin-right: 10px; 
+  margin-top: 10px;
+ border: solid black 1p; 
+ padding: 2px;
+}
+
+
+#subpicture3
+{
+ margin-left: 10px; 
+ margin-bottom: 10px;
+ margin-right: 10px; 
+ margin-top: 10px;
+ border: solid black 1p; 
+ padding: 2px;
 }
 
 #notes
