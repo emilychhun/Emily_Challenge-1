@@ -412,7 +412,26 @@ text-align: center;
 }
 
 
+.footer
 
+{
+   padding: 5px;
+   list-style-type: none;
+   background-color: blueviolet;
+   border-radius: 5px;
+   height: 50px;
+   margin-top: 5px;
+   margin: 10px;
+}
+#subfooter
+{
+   margin-left: 1120px;
+   font-size: 75%;
+}
+ #mainfooter
+ {
+    margin-top: 0px;
+ }
 
 
 
